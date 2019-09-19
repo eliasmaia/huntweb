@@ -1,3 +1,6 @@
+# Huntweb
+Hunt is a very simple web app, made with Reactjs. The app was made following up the Reactjs course available at Rocketseat (https://skylab.rocketseat.com.br/node/curso-react-js). Hunt basically retrieves a list of objects from an api provided by the course, and shows the objects in a list. When we click on any of them, it shows a page with detailed information about them. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
